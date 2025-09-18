@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - KinderLernspiel_Zauberwald_Sound.py
+      - ZauberwaldKinderLernspiel_GUI.py
       - .github/workflows/build.yml
 
 jobs:
